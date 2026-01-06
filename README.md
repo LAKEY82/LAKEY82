@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner.png" alt="Lakindu Perera - Software Engineer Banner" width="100%" />
+</div>
 
 # Hi there, I'm Lakindu Perera! 👋
 

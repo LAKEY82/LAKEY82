@@ -74,8 +74,8 @@ Based in **Sri Lanka**, I am open to **Remote, Hybrid, and On-Site** opportuniti
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="Lakindu's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKEY82&show_icons=true&theme=radical" alt="Lakindu's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKEY82&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

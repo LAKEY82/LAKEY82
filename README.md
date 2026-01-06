@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Gemini_Generated_Image_bu021fbu021fbu02.png" alt="Lakindu Perera - Software Engineer Banner" width="100%" />
+  <img src="./ban.png" alt="Lakindu Perera - Software Engineer Banner" width="100%" />
 </div>
 
 # Hi there, I'm Lakindu Perera! 👋

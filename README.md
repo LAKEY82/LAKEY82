@@ -71,18 +71,9 @@ Based in **Sri Lanka**, I am open to **Remote, Hybrid, and On-Site** opportuniti
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKEY82&show_icons=true&theme=radical" alt="Lakindu's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKEY82&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 * **Email:** verdentperera@gmail.com
-* **LinkedIn:** [Add Your LinkedIn URL Here]
+* **LinkedIn:** https://www.linkedin.com/in/lakindu-perera-2988b91b5/
 * **Location:** Colombo, Sri Lanka
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LAKEY82&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-nayanapriya" /> </p>

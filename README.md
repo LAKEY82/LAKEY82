@@ -66,6 +66,7 @@ Based in **Sri Lanka**, I am open to **Remote, Hybrid, and On-Site** opportuniti
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Educational Dashboard** | .NET Core MVC | Admin and teacher dashboard with version control via Bitbucket. |
+| **Learning Management System** | .NET Core MVC |LMS Software with version control via Bitbucket. |
 | **Online Education App** | React Native, .NET | Mobile platform allowing students to join classes and view archives. |
 | **PlantCare Mobile App** | React Native, Node.js | Cross-platform app with scalable SQL data management and responsive UI. |
 | **Kiyo Lanka Web App** | MERN Stack | Full-stack web application for client requirements using MongoDB & Express. |
